@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<b>Visitors Count: from 2022-08-04</b>
+<b>Visitors Count: from 2022-08-08</b>
 
 <p align="center">
     <img align="center" src="https://profile-counter.glitch.me/{ImanRJB}/count.svg" />
