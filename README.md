@@ -3,7 +3,7 @@
 </h1>
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=d1a01f&size=32&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=d1a01f&size=32&center=true&vCenter=true&width=600&height=50&lines=DevOps+Engineer;Full-Stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
 </div>
 
 
@@ -42,7 +42,7 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImanRJB&theme=gruvbox&hide_border=true" />
 </p>
 
-![Iman Rajabi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImanRJB&custom_title=Vahid%20Ashourzadeh's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![Iman Rajabi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImanRJB&custom_title=Iman%20Rajabi's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 ------
 
