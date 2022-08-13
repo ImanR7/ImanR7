@@ -35,7 +35,9 @@
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=47A248&labelColor=282828">
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1&labelColor=282828">
     <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=DC382D&labelColor=282828">
+    <img src="https://img.shields.io/badge/-ApacheKafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=231F20&labelColor=282828">
     <img src="https://img.shields.io/badge/-RabbitMQ-ff6600?style=for-the-badge&logo=RabbitMQ&logoColor=ff6600&labelColor=282828">
+    <img src="https://img.shields.io/badge/-ApacheKafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=231F20&labelColor=282828">
     <img src="https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=Swift&logoColor=F05138&labelColor=282828">
     <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=005571&labelColor=282828">
     <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=EE0000&labelColor=282828">
