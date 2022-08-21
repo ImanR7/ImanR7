@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=282828">
     <img src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=2496ed&labelColor=282828">
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=FCC624&labelColor=282828">
+    <img src="https://img.shields.io/badge/-GoLang-00ADD8?style=for-the-badge&logo=Go&logoColor=00ADD8&labelColor=282828">
     <img src="https://img.shields.io/badge/-Blockchain-e38215?style=for-the-badge&logo=bitcoin&logoColor=e38215&labelColor=282828">
     <img src="https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=Web3.js&logoColor=F16822&labelColor=282828">
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=777BB4&labelColor=282828">
