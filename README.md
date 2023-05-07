@@ -53,12 +53,20 @@
 
 ------
 
-<p>
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ImanRJB&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImanRJB&theme=gruvbox&hide_border=true" />
+<p align="center">
+    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=ImanRJB&show_icons=true&theme=merko&hide_border=true&line_height=23.5" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="49.5%" align="center" src="https://streak-stats.demolab.com?user=ImanRJB&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</a>
+
 </p>
 
-![Iman Rajabi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImanRJB&custom_title=Iman%20Rajabi's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ImanRJB&theme=merko&hide_border=true&point=68b487&title_color=aad100&color=68b487&radius=6)](https://github.com/ImanRJB/github-readme-activity-graph)
+
 
 ------
 
