@@ -65,7 +65,7 @@
 </p>
 
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ImanRJB&theme=merko&hide_border=true&point=68b487&title_color=aad100&color=68b487&radius=6)](https://github.com/ImanRJB/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ImanR7&theme=merko&hide_border=true&point=68b487&title_color=aad100&color=68b487&radius=6)](https://github.com/ImanR7)
 
 
 ------
